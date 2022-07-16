@@ -116,7 +116,7 @@ global.mess = {
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'تم حظرك من استخدام البوت راسل المالك ،.',',
+    ban: ' تم حظرك من استخدام البوت راسل المالك',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
