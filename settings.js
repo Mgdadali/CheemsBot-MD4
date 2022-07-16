@@ -63,7 +63,7 @@ global.location = "sudan 🇸🇩" //ur location
 //bot bomdy 
 global.owner = ['249129431348']
 global.ownertag = '249129431348' //ur tag number
-global.botname = 'Cheems Bot MD V4 ✔' //ur bot name
+global.botname = 'Mgdad bot 🇸🇩' //ur bot name
 global.linkz = "https://youtu.be/Y_63fLfyjQc" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/Y_63fLfyjQc" //ur website to be displayed
 global.botscript = 'https://github.com/Mgdadali/CheemsBot-MD4/edit/master/settings.js' //script link
